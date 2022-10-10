@@ -3,5 +3,4 @@ Stacked acrylic case for [DZ60 V2 flex cut](https://kbdfans.com/products/dz60-60
 This case was inspired by my cheapskate self and curiosity to tinker around with designs.<br />
 V1, aka the current state of the design is in very early stage. Once manufactured and tested, I will update it accordingly.
 If you decide to go with the design before I can test it, do it on your own risk. Me no take responsibility for any mishaps.<br />
-PCB dimensions and PCB outline based on it are taken using a calliper and a very sloppy hand. Thus take it as a grain of salt till I (or you, let me know if you do) can test it.<br />
 Lastly, THE CASE IS DESIGED FOR 3MM THICK ACRYLIC. Any other thickness and you will have issues with fitting of pieces together and height unless you edit it for thickness of your choice.
